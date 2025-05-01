@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a Fullstack Engineer, with 4+ years of experience. I specialize in Javascript (Typescript, Vue.js, Nuxt.js, React.js, Next.js, React Native), PHP (Laravel), C#, .NET, Python, and DevOps tools like Docker. I also work with MyDQL and PostgreSQL.
+I'm a Fullstack Engineer, with 4+ years of experience. I specialize in Javascript (Typescript, Vue.js, Nuxt.js, React.js, Next.js, React Native), PHP (Laravel), C#, .NET, Python, and DevOps tools like Docker. I also work with MySQL and PostgreSQL.
 I love solving real-world problems with clean, scalable code and collaborating on creative projects.  
 
 ---
